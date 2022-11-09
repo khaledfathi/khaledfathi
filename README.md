@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khaledfathi
-- 👀 I’m interested in Desktop Application
-- 🌱 I’m currently learning Qt
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Desktop/Web Application
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on web backend
 - 📫 How to reach me khaledfathi@protonmail.com
 
 <!---
