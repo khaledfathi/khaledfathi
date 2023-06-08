@@ -2,7 +2,7 @@
 - 👀 I’m interested in Desktop/Web Application
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on web backend
-- 📫 How to reach me khaledfathi@protonmail.com
+- 📫 How to reach me dev@khaledfathi.com
 
 <!---
 khaledfathi/khaledfathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
