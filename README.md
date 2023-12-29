@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khaledfathi
 - 👀 I’m interested in Desktop/Web BE/ Mobile App
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently practicing every thing
 - 💞️ I’m looking to collaborate on web backend
 - 📫 How to reach me dev@khaledfathi.com
 
